@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102159526640",
+    "project_id": "messenger-app-b3226",
+    "storage_bucket": "messenger-app-b3226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102159526640:android:0ab68ba63e268cc651f035",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102159526640-efhrhsvfnrc3sa4r4ct42n5rgg46dsub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHfbsyMuT5YMKlda4Pa0kWrJGsjJVQpJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102159526640-efhrhsvfnrc3sa4r4ct42n5rgg46dsub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
